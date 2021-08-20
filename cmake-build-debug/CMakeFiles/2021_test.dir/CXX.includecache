@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/2021/7.4.cpp
+iostream
+D:/2021/iostream
+vector
+D:/2021/vector
+windows.h
+D:/2021/windows.h
+

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2021"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_Fouction">
+				<Option output="D:/2021/cmake-build-debug/2021_Fouction.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_Fouction"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_Fouction/fast">
+				<Option output="D:/2021/cmake-build-debug/2021_Fouction.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_Fouction/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021">
+				<Option output="D:/2021/cmake-build-debug/2021.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021/fast">
+				<Option output="D:/2021/cmake-build-debug/2021.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_1">
+				<Option output="D:/2021/cmake-build-debug/2021_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_1/fast">
+				<Option output="D:/2021/cmake-build-debug/2021_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="math">
+				<Option output="D:/2021/cmake-build-debug/math.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 math"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="math/fast">
+				<Option output="D:/2021/cmake-build-debug/math.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 math/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_2">
+				<Option output="D:/2021/cmake-build-debug/2021_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_2/fast">
+				<Option output="D:/2021/cmake-build-debug/2021_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_shutdown">
+				<Option output="D:/2021/cmake-build-debug/2021_shutdown.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_shutdown"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_shutdown/fast">
+				<Option output="D:/2021/cmake-build-debug/2021_shutdown.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_shutdown/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_test">
+				<Option output="D:/2021/cmake-build-debug/2021_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_test"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_test/fast">
+				<Option output="D:/2021/cmake-build-debug/2021_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_test/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_7.9">
+				<Option output="D:/2021/cmake-build-debug/2021_7.9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_7.9"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021_7.9/fast">
+				<Option output="D:/2021/cmake-build-debug/2021_7.9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021_7.9/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/2021/6.18.cpp">
+			<Option target="2021_1"/>
+		</Unit>
+		<Unit filename="D:/2021/7.4.cpp">
+			<Option target="2021_test"/>
+		</Unit>
+		<Unit filename="D:/2021/Fouction2.cpp">
+			<Option target="2021_Fouction"/>
+		</Unit>
+		<Unit filename="D:/2021/Function.cpp">
+			<Option target="2021_2"/>
+		</Unit>
+		<Unit filename="D:/2021/main.cpp">
+			<Option target="2021"/>
+		</Unit>
+		<Unit filename="D:/2021/math.cpp">
+			<Option target="math"/>
+		</Unit>
+		<Unit filename="D:/2021/shutdown.cpp">
+			<Option target="2021_shutdown"/>
+		</Unit>
+		<Unit filename="D:/2021/test.cpp">
+			<Option target="2021_7.9"/>
+		</Unit>
+		<Unit filename="D:/2021/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

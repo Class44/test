@@ -1,0 +1,7 @@
+C:\Cmark\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\2021
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/2021/cmake-build-debug
+
+收集编译器信息时遇到问题:
+	cc1plus.exe: error: unrecognized command line option "-fpch-preprocess"

@@ -1,0 +1,10 @@
+D:/2021/cmake-build-debug/CMakeFiles/2021_Fouction.dir
+D:/2021/cmake-build-debug/CMakeFiles/2021.dir
+D:/2021/cmake-build-debug/CMakeFiles/2021_1.dir
+D:/2021/cmake-build-debug/CMakeFiles/math.dir
+D:/2021/cmake-build-debug/CMakeFiles/2021_2.dir
+D:/2021/cmake-build-debug/CMakeFiles/2021_shutdown.dir
+D:/2021/cmake-build-debug/CMakeFiles/2021_test.dir
+D:/2021/cmake-build-debug/CMakeFiles/2021_7.9.dir
+D:/2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir

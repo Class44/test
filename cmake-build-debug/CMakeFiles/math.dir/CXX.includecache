@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/2021/math.cpp
+iostream
+D:/2021/iostream
+cmath
+D:/2021/cmath
+cstdio
+D:/2021/cstdio
+vector
+D:/2021/vector
+
